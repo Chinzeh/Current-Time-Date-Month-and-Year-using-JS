@@ -1,0 +1,19 @@
+*{
+    background: #f09595;
+}
+
+#clock{
+    font-size: 30px;
+    /* width: 7px; */
+}
+
+#boundary{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 100px;
+    font-weight: 600;
+    align-items: center;
+    margin: 10% 40%;
+}
+
